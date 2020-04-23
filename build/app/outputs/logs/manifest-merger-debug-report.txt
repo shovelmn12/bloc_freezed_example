@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sma/Projects/bloc_freezed_example/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/sma/Projects/bloc_freezed_example/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/sma/Projects/bloc_freezed_example/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/sma/Projects/bloc_freezed_example/android/app/src/main/AndroidManifest.xml:1:1-30:12
+MERGED from /Users/sma/Projects/bloc_freezed_example/android/app/src/main/AndroidManifest.xml:1:1-30:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/b2906988660ab3ac74bc48a4052b62f3/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/66cca7139e37afd86100359653494cf4/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/9df54d65770514d57472eded3118b4b6/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/1a374622d18aa0a855f9b78425d4ef54/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/8881e64557df85aac68300559c6338a9/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/e598925ec8e0ee7fb9c1a9cf0a81f409/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/13cd2450895871bdf43270107b0a521b/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/6c5d8392306695d2a2065fe47adbab3c/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/ac31e1171b763753578c22ecefd5661f/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/291d1c27e827f5f3173ae9c83e313393/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/6c72c89b4d5e5f91636540480d9d341c/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/3b6e0d45d06d24728e35507fe7a2422d/core-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/e9bd0833ba6ca658768bfd73312db43e/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/7b050cf4d2fa0f5d41e1e687e7327375/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/420a23dc07d2ca281fac6c70cfbc9552/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/67078e58fc207d94a7bd63b6e260d987/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/42ead4bc0cf2767c0c7c383aa5e45a74/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/a00769980933191e4ffe1f5fdf4b3d2e/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/42e8642ed6bc8321634776f77301e225/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/eafd67868132f9ebc58653b0e20c5880/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/ec55140fe9da3382e1088a6c1a58b3f0/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/18d3f6608c19f263e4c0abf2264adbc0/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/49989eecad27f72799e10394bcb98e8f/print-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/sma/Projects/bloc_freezed_example/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/sma/Projects/bloc_freezed_example/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/sma/Projects/bloc_freezed_example/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /Users/sma/Projects/bloc_freezed_example/android/app/src/main/AndroidManifest.xml:2:5-46
+		INJECTED from /Users/sma/Projects/bloc_freezed_example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sma/Projects/bloc_freezed_example/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sma/Projects/bloc_freezed_example/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sma/Projects/bloc_freezed_example/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /Users/sma/Projects/bloc_freezed_example/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/sma/Projects/bloc_freezed_example/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sma/Projects/bloc_freezed_example/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /Users/sma/Projects/bloc_freezed_example/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sma/Projects/bloc_freezed_example/android/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/sma/Projects/bloc_freezed_example/android/app/src/main/AndroidManifest.xml:8:5-29:19
+MERGED from [androidx.core:core:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/3b6e0d45d06d24728e35507fe7a2422d/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/3b6e0d45d06d24728e35507fe7a2422d/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/a00769980933191e4ffe1f5fdf4b3d2e/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/a00769980933191e4ffe1f5fdf4b3d2e/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/3b6e0d45d06d24728e35507fe7a2422d/core-1.0.0/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/sma/Projects/bloc_freezed_example/android/app/src/main/AndroidManifest.xml:10:9-43
+	android:icon
+		ADDED from /Users/sma/Projects/bloc_freezed_example/android/app/src/main/AndroidManifest.xml:11:9-43
+	android:name
+		ADDED from /Users/sma/Projects/bloc_freezed_example/android/app/src/main/AndroidManifest.xml:9:9-57
+activity#dev.codeplex.blocfreezedexample.MainActivity
+ADDED from /Users/sma/Projects/bloc_freezed_example/android/app/src/main/AndroidManifest.xml:12:9-23:20
+	android:launchMode
+		ADDED from /Users/sma/Projects/bloc_freezed_example/android/app/src/main/AndroidManifest.xml:14:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/sma/Projects/bloc_freezed_example/android/app/src/main/AndroidManifest.xml:17:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/sma/Projects/bloc_freezed_example/android/app/src/main/AndroidManifest.xml:18:13-55
+	android:configChanges
+		ADDED from /Users/sma/Projects/bloc_freezed_example/android/app/src/main/AndroidManifest.xml:16:13-163
+	android:theme
+		ADDED from /Users/sma/Projects/bloc_freezed_example/android/app/src/main/AndroidManifest.xml:15:13-47
+	android:name
+		ADDED from /Users/sma/Projects/bloc_freezed_example/android/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sma/Projects/bloc_freezed_example/android/app/src/main/AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/sma/Projects/bloc_freezed_example/android/app/src/main/AndroidManifest.xml:20:17-68
+	android:name
+		ADDED from /Users/sma/Projects/bloc_freezed_example/android/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sma/Projects/bloc_freezed_example/android/app/src/main/AndroidManifest.xml:21:17-76
+	android:name
+		ADDED from /Users/sma/Projects/bloc_freezed_example/android/app/src/main/AndroidManifest.xml:21:27-74
+meta-data#flutterEmbedding
+ADDED from /Users/sma/Projects/bloc_freezed_example/android/app/src/main/AndroidManifest.xml:26:9-28:33
+	android:value
+		ADDED from /Users/sma/Projects/bloc_freezed_example/android/app/src/main/AndroidManifest.xml:28:13-30
+	android:name
+		ADDED from /Users/sma/Projects/bloc_freezed_example/android/app/src/main/AndroidManifest.xml:27:13-44
+uses-sdk
+INJECTED from /Users/sma/Projects/bloc_freezed_example/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sma/Projects/bloc_freezed_example/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sma/Projects/bloc_freezed_example/android/app/src/main/AndroidManifest.xml
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/b2906988660ab3ac74bc48a4052b62f3/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/b2906988660ab3ac74bc48a4052b62f3/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/66cca7139e37afd86100359653494cf4/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/66cca7139e37afd86100359653494cf4/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/9df54d65770514d57472eded3118b4b6/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/9df54d65770514d57472eded3118b4b6/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/1a374622d18aa0a855f9b78425d4ef54/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/1a374622d18aa0a855f9b78425d4ef54/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/8881e64557df85aac68300559c6338a9/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/8881e64557df85aac68300559c6338a9/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/e598925ec8e0ee7fb9c1a9cf0a81f409/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/e598925ec8e0ee7fb9c1a9cf0a81f409/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/13cd2450895871bdf43270107b0a521b/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/13cd2450895871bdf43270107b0a521b/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/6c5d8392306695d2a2065fe47adbab3c/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/6c5d8392306695d2a2065fe47adbab3c/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/ac31e1171b763753578c22ecefd5661f/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/ac31e1171b763753578c22ecefd5661f/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/291d1c27e827f5f3173ae9c83e313393/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/291d1c27e827f5f3173ae9c83e313393/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/6c72c89b4d5e5f91636540480d9d341c/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/6c72c89b4d5e5f91636540480d9d341c/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/3b6e0d45d06d24728e35507fe7a2422d/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/3b6e0d45d06d24728e35507fe7a2422d/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/e9bd0833ba6ca658768bfd73312db43e/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/e9bd0833ba6ca658768bfd73312db43e/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/7b050cf4d2fa0f5d41e1e687e7327375/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/7b050cf4d2fa0f5d41e1e687e7327375/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/420a23dc07d2ca281fac6c70cfbc9552/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/420a23dc07d2ca281fac6c70cfbc9552/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/67078e58fc207d94a7bd63b6e260d987/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/67078e58fc207d94a7bd63b6e260d987/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/42ead4bc0cf2767c0c7c383aa5e45a74/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/42ead4bc0cf2767c0c7c383aa5e45a74/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/a00769980933191e4ffe1f5fdf4b3d2e/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/a00769980933191e4ffe1f5fdf4b3d2e/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/42e8642ed6bc8321634776f77301e225/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/42e8642ed6bc8321634776f77301e225/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/eafd67868132f9ebc58653b0e20c5880/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/eafd67868132f9ebc58653b0e20c5880/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/ec55140fe9da3382e1088a6c1a58b3f0/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/ec55140fe9da3382e1088a6c1a58b3f0/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/18d3f6608c19f263e4c0abf2264adbc0/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/18d3f6608c19f263e4c0abf2264adbc0/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/49989eecad27f72799e10394bcb98e8f/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sma/.gradle/caches/transforms-2/files-2.1/49989eecad27f72799e10394bcb98e8f/print-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/sma/Projects/bloc_freezed_example/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/sma/Projects/bloc_freezed_example/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sma/Projects/bloc_freezed_example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sma/Projects/bloc_freezed_example/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sma/Projects/bloc_freezed_example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sma/Projects/bloc_freezed_example/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sma/Projects/bloc_freezed_example/android/app/src/debug/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/sma/Projects/bloc_freezed_example/android/app/src/debug/AndroidManifest.xml:6:22-64
